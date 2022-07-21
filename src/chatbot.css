@@ -232,4 +232,18 @@
     font-size: 1rem;
   }
   
-  
+
+.chat__Button{
+  background:url(chatbot.png); 
+  right:50px;
+  bottom: 40px;
+  position: fixed;
+  height:50px;
+  width:50px;
+  background-size: 50px;
+  max-width: 50px;
+  border: none;
+  bottom: 150px;
+  cursor: pointer;
+  z-index: 100;
+}
